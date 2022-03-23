@@ -1,0 +1,40 @@
+D:\HVTG\Code\OOP\Practise\practise\practise\bin\Debug\practise.exe.config
+D:\HVTG\Code\OOP\Practise\practise\practise\bin\Debug\practise.exe
+D:\HVTG\Code\OOP\Practise\practise\practise\bin\Debug\practise.pdb
+D:\HVTG\Code\OOP\Practise\practise\practise\obj\Debug\practise.csproj.AssemblyReference.cache
+D:\HVTG\Code\OOP\Practise\practise\practise\obj\Debug\practise.Properties.Resources.resources
+D:\HVTG\Code\OOP\Practise\practise\practise\obj\Debug\practise.csproj.GenerateResource.cache
+D:\HVTG\Code\OOP\Practise\practise\practise\obj\Debug\practise.csproj.CoreCompileInputs.cache
+D:\HVTG\Code\OOP\Practise\practise\practise\obj\Debug\practise.exe
+D:\HVTG\Code\OOP\Practise\practise\practise\obj\Debug\practise.pdb
+D:\HVTG\Code\OOP\Practise\practise\practise\obj\Debug\practise.Form1.resources
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\bin\Debug\practise.exe.config
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\bin\Debug\practise.exe
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\bin\Debug\practise.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\obj\Debug\practise.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\obj\Debug\practise.Form1.resources
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\obj\Debug\practise.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\obj\Debug\practise.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\obj\Debug\practise.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\obj\Debug\practise.exe
+C:\Users\ASUS\OneDrive\Tài liệu\practise\practise\obj\Debug\practise.pdb
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\bin\Debug\practise.exe.config
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\bin\Debug\practise.exe
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\bin\Debug\practise.pdb
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\obj\Debug\practise.csproj.AssemblyReference.cache
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\obj\Debug\practise.Form1.resources
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\obj\Debug\practise.Properties.Resources.resources
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\obj\Debug\practise.csproj.GenerateResource.cache
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\obj\Debug\practise.csproj.CoreCompileInputs.cache
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\obj\Debug\practise.exe
+D:\HVTG\Code\Project\OOP C#\practise\practise\practise\obj\Debug\practise.pdb
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\bin\Debug\practise.exe.config
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\bin\Debug\practise.exe
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\bin\Debug\practise.pdb
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\obj\Debug\practise.csproj.AssemblyReference.cache
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\obj\Debug\practise.Form1.resources
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\obj\Debug\practise.Properties.Resources.resources
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\obj\Debug\practise.csproj.GenerateResource.cache
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\obj\Debug\practise.csproj.CoreCompileInputs.cache
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\obj\Debug\practise.exe
+D:\Duyên\Nhóm 11_BinarySearchTree_20110250_20110237\Project Binary Search Tree\practise\obj\Debug\practise.pdb
